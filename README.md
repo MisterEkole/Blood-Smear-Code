@@ -32,6 +32,7 @@ Alternatively you can download the dataset from here: https://ceb.nlm.nih.gov/re
 * smear_analyser_cpu.ipynb: version of the notebook trained on CPU
 * smear_analyser_gpu.ipynb: version of the notebook trained on GPU(Google Colab)
 * test_image.py: python file using trained model to test images
+* smear_analyser.pt: Model file
 
 
 
