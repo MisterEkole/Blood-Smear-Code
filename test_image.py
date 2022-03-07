@@ -49,7 +49,7 @@ def predict_image(img_path):
 
 if __name__ == "__main__":
 
-    imagefile = "D:/Dev Projects/AI_Projects/Blood Smear Code/cell_images/Test/Uninfected/C1_thinF_IMG_20150604_104722_cell_164.png"
+    imagefile = "C:/Users/mittr/Downloads/Documents/img1.png"
     imagepath = os.path.join(os.getcwd(), imagefile)
    
     # run prediction function annd obtain prediccted class index
